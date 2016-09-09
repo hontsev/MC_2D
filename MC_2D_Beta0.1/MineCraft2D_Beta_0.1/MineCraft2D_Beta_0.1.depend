@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1388448085 source:d:\myprograms\mc_2d_beta0.1\minecraft2d_beta_0.1\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<conio.h>
+	<vector>
+	<stdlib.h>
+	<ctime>
+
+1388506922 source:d:\≥Ã–Ú\13211116_’≈“¢_mc_2d_beta0.1\mc_2d_beta0.1\minecraft2d_beta_0.1\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<conio.h>
+	<vector>
+	<stdlib.h>
+	<ctime>
+
+1426149629 source:e:\cprojects\mc_2d_beta0.1\mc_2d_beta0.1\minecraft2d_beta_0.1\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<conio.h>
+	<vector>
+	<stdlib.h>
+	<ctime>
+	"include/Block.h"
+
+1426149860 e:\cprojects\mc_2d_beta0.1\mc_2d_beta0.1\minecraft2d_beta_0.1\include\block.h
+	<string>
+
+1426149985 source:e:\cprojects\mc_2d_beta0.1\mc_2d_beta0.1\minecraft2d_beta_0.1\src\block.cpp
+	"Block.h"
+
